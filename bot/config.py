@@ -1,10 +1,10 @@
 class config:
-    BOT_TOKEN = ""
-    APP_ID = ""
-    API_HASH = ""
-    DATABASE_URL = ""
-    SUDO_USERS = "" # Sepearted by space.
-    SUPPORT_CHAT_LINK = ""
+    BOT_TOKEN = "1359942874:AAFWk5Gu6p4_tiwCGUpq6ArMqG027ERah1w"
+    APP_ID = "2602381"
+    API_HASH = "3524dec2f6dcc58dde387e425899dde4"
+    DATABASE_URL = "postgres://gcdfoehdvzorbg:125f5690194e9a818328f7ed0ca8b4c2d3738357dfb44cfbee4c9b807bf7648c@ec2-54-84-98-18.compute-1.amazonaws.com:5432/dbg2a74s2kfess"
+    SUDO_USERS = "1215166084 987714305" # Sepearted by space.
+    SUPPORT_CHAT_LINK = "https://t.me/kinguploadersupport"
     DOWNLOAD_DIRECTORY = "./downloads/"
 
 
